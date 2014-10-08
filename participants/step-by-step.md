@@ -29,7 +29,7 @@ Running the libcloud code
 ```
 pip install virtualenv
 virtualenv venv
-source venv/bin/activategit 
+source venv/bin/activate
 ```
 + Get code for the application from GitHub:
 ```
