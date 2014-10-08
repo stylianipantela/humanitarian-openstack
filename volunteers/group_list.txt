@@ -31,7 +31,6 @@ Besan:
 * Jessica
 * Joyce Lee
 * Aanchal Malhotra
-* Yunjia Sun
 * Maria Curetti
 ------------------------------------
 Zaina
@@ -48,6 +47,7 @@ Zabby
 * Anudipa Maiti
 * Gretta
 * Naina Raisinghani
+* Andrea
 ------------------------------------
 Jenny Vo
 ------------------------------------
